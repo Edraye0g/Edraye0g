@@ -2,7 +2,8 @@
 
 I'm Rayeed, a biomedical engineering student based in Bangladesh
 
-I am currently working on simulation based projects on computational fluid dynamics and finite element analysis. 
+I am currently working on cancer genomics and biomedical informatics. 
+I am enthusiast about simulation based projects on computational fluid dynamics and finite element analysis. 
 
 I use softwares like MATLAB, SimVascular, SimScale, OpenFOAM for simulation-based project.
 For embedded projects, I use proteus and arduino IDE. 
