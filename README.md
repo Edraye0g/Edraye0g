@@ -3,10 +3,12 @@
 I'm Rayeed, a biomedical engineering student based in Bangladesh
 
 I am currently working on cancer genomics and biomedical informatics. 
-I am enthusiast about simulation based projects on computational fluid dynamics and finite element analysis. 
+I am enthusiast about simulation based projects on computational psychiatry and neuroeconomics. 
 
-I use softwares like MATLAB, SimVascular, SimScale, OpenFOAM for simulation-based project.
-For embedded projects, I use proteus and arduino IDE. 
+I use softwares like MATLAB, SimVascular, SimScale, OpenFOAM.
+For  embedded projects, I use proteus and arduino IDE.
+Recently gaining knowledge on PsychoPy, MNE-Python and fMRI. 
+
 
 Fun Facts: 
 1. I like gaining knowledge.
