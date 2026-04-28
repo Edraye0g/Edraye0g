@@ -17,5 +17,6 @@ Fun Facts:
 4. I want an owl. 
 
 **Read my literature reviews**
-[Substack](https://r4yeed.substack.com/) 
-[github io](https://edraye0g.github.io/)
+
+-[Substack](https://r4yeed.substack.com/) 
+-[github io](https://edraye0g.github.io/)
