@@ -2,19 +2,14 @@
 
 I'm Rayeed, a biomedical engineering student based in Bangladesh
 
-I am currently working on cancer genomics and biomedical informatics. 
+I am currently working on cancer genomics and biomedical informatics as a research assistant. 
 I am enthusiast about simulation based projects on computational psychiatry and neuroeconomics. 
 
-I use softwares like MATLAB, SimVascular, SimScale, OpenFOAM.
-For  embedded projects, I use proteus and arduino IDE.
-Recently gaining knowledge on PsychoPy, MNE-Python and fMRI. 
 
-
-Fun Facts: 
+Facts: 
 1. I like gaining knowledge.
-2. I am a fast learner.
-3. I am an essentialist.
-4. I want an owl. 
+2. I am an essentialist.
+3. I want an owl. 
 
 **Read my literature reviews**
 
